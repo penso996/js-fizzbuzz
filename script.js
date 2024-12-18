@@ -15,7 +15,7 @@ for (let i = 1; i <= 100; i++) {
 
     //MULTIPLO DI 5: Stampare Buzz al posto del numero di output.
     else if (i % 5 === 0) {
-        console.log("Buzz")
+        console.log("Buzz");
     }
 
     //ALTRIMENTI: Stampare il numero.
