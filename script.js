@@ -1,4 +1,4 @@
-//Partire chiedendo al computer di stampare dei numeri da 1 a 100.
+//Partire chiedendo al computer di elaborare dei numeri da 1 a 100.
 for (let i = 1; i <= 100; i++) {
 
     //Mentre il computer elabora 1 ad 1 l'output verificare man mano risultato per risultato.

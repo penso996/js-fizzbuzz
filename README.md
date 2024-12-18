@@ -9,7 +9,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
 <-- Struttura Logica -->
 
-- Partire chiedendo al computer di stampare dei numeri da 1 a 100.
+- Partire chiedendo al computer di elaborare dei numeri da 1 a 100.
 - Mentre il computer elabora 1 ad 1 l'output verificare man mano risultato per risultato.
 - Quando un numero è:
     MULTIPLO DI 3 E 5: Stampare FizzBuzz al posto del numero di output.
