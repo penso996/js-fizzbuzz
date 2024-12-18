@@ -15,4 +15,4 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
     MULTIPLO DI 3: Stampare Fizz al posto del numero di output.
     MULTIPLO DI 5: Stampare Buzz al posto del numero di output.
     MULTIPLO DI 3 E 5: Stampare FizzBuzz al posto del numero di output.
-    ALTRIMENTI: Stampare il numero
+    ALTRIMENTI: Stampare il numero.
